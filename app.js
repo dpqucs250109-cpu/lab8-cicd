@@ -15,7 +15,7 @@ const pool = new Pool({
 
 app.get('/', (req, res) => {
   res.json({
-    app:  'CISC886 Lab 8',
+    app:  'CISC 886 Lab 8',
     mode: process.env.MODE || 'local',
     node: process.version,
     host: os.hostname(),
