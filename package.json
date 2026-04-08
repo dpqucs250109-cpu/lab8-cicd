@@ -1,7 +1,7 @@
 {
-  "name": "lab6-app",
+  "name": "lab8-cicd",
   "version": "1.0.0",
-  "description": "CISC 886 Lab 6 – Containerization demo app",
+  "description": "CISC 886 Lab 8 – CI/CD demo app",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
